@@ -1,3 +1,6 @@
 .idea
 *.ini
 .DS_Store
+.mrx-link-logs
+.ipynb_checkpoints
+*.md
